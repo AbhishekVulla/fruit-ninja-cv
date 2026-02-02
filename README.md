@@ -1,5 +1,7 @@
 # Fruit Ninja CV
 
+**[🎮 Play Now](https://fruit-ninja-cv.vercel.app/)**
+
 A browser-based Fruit Ninja clone with real-time hand tracking controls. Use your finger to slice fruits via webcam - no installation required!
 
 ## Screenshots
